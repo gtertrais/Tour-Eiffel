@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x73D51BEAf02CA5bC78437bcD99f09Ec34C550113",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x73d51beaf02ca5bc78437bcd99f09ec34c550113",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "La Tour Eiffel",
+  "SYMBOL": "EIFFEL",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/latoureiffel",
+  "SHOW_BACKGROUND": false
+}
